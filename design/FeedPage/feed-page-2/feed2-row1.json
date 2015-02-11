@@ -96,67 +96,23 @@
         "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
         "div": [
           {
-            "class": "img-holder",
-            "div": {
-              "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-              "data-globalid": "media.mediaitemattribution.1075035",
-              "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/cc/fc/ccfc193554c30155b433f0c1056bd06a.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/cb/eb/cbeb836967369b61c41194d94866e739.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/db/f3/dbf34d851611987ba6905d089f6e34f4.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/b2/8e/b28e243ad204cf80a6b219175bcc59ea.jpg\" }",
-              "dataImgid": "1075035",
-              "data-focustop": "0.5",
-              "data-focusleft": "0.5",
-              "data-imgorigwidth": "None",
-              "data-imgorigheight": "None",
-              "href": "/projects/offices-broccolini-construction/",
-              "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/db/f3/dbf34d851611987ba6905d089f6e34f4.jpg); background-position: 50% 50%;"
-            }
+            "dataImgid": "1075035"
           },
           {
             "class": "subimgs",
             "div": [
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1074976",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/dd/61/dd61b309eb01d4593142da7cc5c8d47d.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/9f/ba/9fba3b34b2c5cead831bdad4687fd0d4.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/6e/b1/6eb10e3051dc727e0ad1a52c48d099e9.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/01/22/0122b76e4d5a5d0aec876b1f076e1409.jpg\" }",
-                  "dataImgid": "1074976",
-                  "data-focustop": "0.596405228758",
-                  "data-focusleft": "0.560564910375",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/offices-broccolini-construction/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/01/22/0122b76e4d5a5d0aec876b1f076e1409.jpg); background-position: 56.0564910375% 59.6405228758%;"
-                }
+                "dataImgid": "1074976"
+
               },
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1074992",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/21/65/2165c2b70fed8d63659d104f571137b3.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/62/57/62576738a59b2612065c9ce614dd982a.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/e6/9e/e69e673b33c56abd9bf2ab8d13567708.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/f0/e7/f0e7b4461e22bf84b7d1a39bd337b00b.jpg\" }",
-                  "dataImgid": "1074992",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/offices-broccolini-construction/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/f0/e7/f0e7b4461e22bf84b7d1a39bd337b00b.jpg); background-position: 50% 50%;"
-                }
+
+                "dataImgid": "1074992"
+
               },
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1074984",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/4d/61/4d61ea2005d6dfc4271bbbf43ae63b38.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/06/0c/060c3290274703a9ab7bd14525ac4c26.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/80/fa/80fab3cef6b8738f508ea8553aabd590.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/65/62/6562a4d774662a9cddfd5853822a4b6b.jpg\" }",
-                  "dataImgid": "1074984",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/offices-broccolini-construction/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/65/62/6562a4d774662a9cddfd5853822a4b6b.jpg); background-position: 50% 50%;"
-                }
+                "dataImgid": "1074984"
+
               }
             ]
           },
@@ -198,37 +154,14 @@
         "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
         "div": [
           {
-            "class": "img-holder",
-            "div": {
-              "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-              "data-globalid": "media.mediaitemattribution.1074136",
-              "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/2d/8b/2d8bf3b1dcd3c9362ac43c208f12b981.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/75/65/7565acc805cfa3b116c9f78453383413.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/6b/e1/6be1bede3009fd29cef8c6fdace511a0.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/48/23/4823b166ac1d9a1e64bad2dec6e00edc.jpg\" }",
-              "dataImgid": "1074136",
-              "data-focustop": "0.5",
-              "data-focusleft": "0.5",
-              "data-imgorigwidth": "None",
-              "data-imgorigheight": "None",
-              "href": "/projects/intrinsic-school/",
-              "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/6b/e1/6be1bede3009fd29cef8c6fdace511a0.jpg); background-position: 50% 50%;"
-            }
+            "dataImgid": "1074136"
           },
           {
             "class": "subimgs",
             "div": [
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1073942",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/13/27/1327067a58305e0f8f0d5b4f4716720a.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/fd/f2/fdf26761ecad010a9825072e3fc6a399.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/b8/1d/b81d8849dd763a52614f3e47a8daf2c5.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/af/fb/affb1ac97a2b8cfb805165f6a135e075.jpg\" }",
-                  "dataImgid": "1073942",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/intrinsic-school/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/af/fb/affb1ac97a2b8cfb805165f6a135e075.jpg); background-position: 50% 50%;"
-                }
+                "dataImgid": "1073942"
+
               },
               {
                 "class": "subimg-holder",
@@ -246,19 +179,7 @@
                 }
               },
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1073937",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/fa/f8/faf846ffd8291d20ca80dbda4d644f07.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/bd/54/bd547a350fdf85f54a276ddb4e598bde.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/16/82/16822741d0f37f58b6301df317bcf36e.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/23/70/23706a6849bd0235941ba747fcc0f7bb.jpg\" }",
-                  "dataImgid": "1073937",
-                  "data-focustop": "0.78431372549",
-                  "data-focusleft": "0.598003152916",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/intrinsic-school/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/23/70/23706a6849bd0235941ba747fcc0f7bb.jpg); background-position: 59.8003152916% 78.431372549%;"
-                }
+                "dataImgid": "1073937"
               }
             ]
           },
@@ -300,19 +221,8 @@
         "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
         "div": [
           {
-            "class": "img-holder",
-            "div": {
-              "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-              "data-globalid": "media.mediaitemattribution.1068605",
-              "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/da/16/da16913d668cf4bc375467863a2fb133.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/7d/0d/7d0df2e0aee41102dabe36007e8f7b92.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/8c/e8/8ce8c8e9b31fa0a35326f599ff1d2ca9.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/79/50/79503e8aed22953da301e6d3f0827d1d.jpg\" }",
-              "dataImgid": "1068605",
-              "data-focustop": "0.5",
-              "data-focusleft": "0.5",
-              "data-imgorigwidth": "None",
-              "data-imgorigheight": "None",
-              "href": "/blog/2015-aia-young-architect-award/",
-              "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/8c/e8/8ce8c8e9b31fa0a35326f599ff1d2ca9.jpg); background-position: 50% 50%;"
-            }
+            "dataImgid": "1068605"
+
           },
           {
             "class": "meta clear",
