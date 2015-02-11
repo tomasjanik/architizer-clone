@@ -2,6 +2,11 @@
     <div class="img-holder">
         <image-block type="img-block" dataImgid="{{edBlock.imageHolder.dataImgid}}"></image-block>
     </div>
+    <div ng-if="edBlock.hasSubImage" class="subimgs">
+        <div class="subimg-holder" ng-repeat="item in edBlock.subImageHolder.div">
+            <image-block type="img-block" dataImgid="{{item.dataImgid}}"></image-block>
+        </div>
+    </div>
     <div class="{{edBlock.meta.class}}">
         <span href="{{edBlock.meta.eyebrow.href}}"
               class="{{edBlock.meta.eyebrow.class}}">{{edBlock.meta.eyebrow.text}}</span>
