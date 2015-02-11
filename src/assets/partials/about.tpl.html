@@ -1,6 +1,6 @@
 <div class="step items results" style="display: block;" infinite-scroll='reddit.nextPage()' infinite-scroll-disabled='reddit.busy' infinite-scroll-distance='1'>
     <div id="feed-page-1">
-        <feed-page-item ng-repeat="item in reddit.items" pageType="{{item.page.type}}"></feed-page-item>
+        <feed-page-item ng-repeat="item in reddit.items" pageType="{{item.page.type}}" pageIndex="$index"></feed-page-item>
     </div>
 </div>
 

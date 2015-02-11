@@ -14,6 +14,15 @@ pageService.service('pageService', ['ImageSetHelper', 'uuid2', function (ImageSe
     this._userProfileMenuItems = [];
     this._tradingTableRows = [];
 
+    this.pageStep = 0;
+
+    this.currentPageStep = function () {
+        return this.pageStep;
+    };
+    this.nextPageStep = function () {
+        this.pageStep++;
+    };
+
     this.preTradingTableRow = function (tradingTableRow) {
         return tradingTableRow;
     };
@@ -83,6 +92,8 @@ pageService.service('pageService', ['ImageSetHelper', 'uuid2', function (ImageSe
 
         // 4. push page object to pageObj array.
         this._pageObj.push(pageData);
+
+        this.nextPageStep();
 
         return this._pageObj;
     };
