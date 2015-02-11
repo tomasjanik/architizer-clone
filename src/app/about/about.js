@@ -114,7 +114,7 @@ about.directive('imageBlock', ['$compile', 'AboutTemplateService', 'pageService'
         var imgType = attrs['type'];
         var dataImgid = attrs['dataimgid'];
 
-        console.log(dataImgid);
+        //console.log(dataImgid);
 
         scope.imageTag = pageService.getImageBlock(dataImgid);
 
