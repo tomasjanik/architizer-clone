@@ -2950,7 +2950,7 @@ body.feature-touch .thumb-block .img-holder, body.less-animation .thumb-block .i
 }
 
 .profile-sm.has-txt.thumb-block .img-holder:after {
-    background: url("../img/small_thumb_gradient.a4a3ce3ce147.png")
+    background: url("./img/small_thumb_gradient.a4a3ce3ce147.png")
 }
 
 body.feature-touch .has-txt.thumb-block .img-holder:after, body.less-animation .has-txt.thumb-block .img-holder:after {
@@ -8644,7 +8644,7 @@ input[type="checkbox"]:checked {
     display: block;
     height: 16px;
     margin: 50px 0;
-    background: url("../img/loaders/4bar_64x32.f0ff27986617.gif") center center no-repeat transparent;
+    background: url("./img/loaders/4bar_64x32.f0ff27986617.gif") center center no-repeat transparent;
     background-size: contain
 }
 
@@ -8668,7 +8668,7 @@ input[type="checkbox"]:checked {
 }
 
 .processing-loader {
-    background: url("../img/loaders/4bar_128x64.a4ebd75b8647.gif") center center no-repeat transparent;
+    background: url("./img/loaders/4bar_128x64.a4ebd75b8647.gif") center center no-repeat transparent;
     background-size: contain
 }
 
@@ -9870,7 +9870,7 @@ input[type="checkbox"]:checked {
     height: 40px;
     background-repeat: no-repeat;
     background-position: 0 0;
-    background-image: url("../img/navigate.643e53b18e1a.png")
+    background-image: url("./img/navigate.643e53b18e1a.png")
 }
 
 .media-content .nav.next {
@@ -10012,7 +10012,7 @@ input[type="checkbox"]:checked {
     right: 14px;
     width: 21px;
     height: 21px;
-    background: url("../img/sidebar_toggle.1f54a1535e9e.png") 0 0 no-repeat
+    background: url("./img/sidebar_toggle.1f54a1535e9e.png") 0 0 no-repeat
 }
 
 .section a.header:hover {
@@ -12685,7 +12685,7 @@ body.feature-touch .actionbar {
 
 .activity-dropdown > .dropdown > .bd .loader {
     display: none;
-    background-image: url("../img/loaders/4bar_64x32.f0ff27986617.gif");
+    background-image: url("./img/loaders/4bar_64x32.f0ff27986617.gif");
     background-repeat: no-repeat;
     background-position: center;
     padding-top: 30px;
@@ -17095,7 +17095,7 @@ footer .legal_footer {
     top: -20px;
     width: 26px;
     height: 20px;
-    background: url("../img/byline_tail.c72410e83374.png") no-repeat 0 0
+    background: url("./img/byline_tail.c72410e83374.png") no-repeat 0 0
 }
 
 .byline .author .inner:before, .byline .author .inner:after {
@@ -17383,7 +17383,7 @@ footer .legal_footer {
     position: relative;
     margin: 0 auto;
     z-index: 10;
-    background-image: url("../img/about/bk.47d5b2977892.jpg");
+    background-image: url("./img/about/bk.47d5b2977892.jpg");
     height: 650px;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -17549,99 +17549,99 @@ footer .legal_footer {
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.marc.showgif {
-    background-image: url("../img/team/marc.48763dc4b25d.gif") !important
+    background-image: url("./img/team/marc.48763dc4b25d.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.peter.showgif {
-    background-image: url("../img/team/peter.aa3fa4eab8db.gif") !important
+    background-image: url("./img/team/peter.aa3fa4eab8db.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.david.showgif {
-    background-image: url("../img/team/david.36ed96acaf2c.gif") !important
+    background-image: url("./img/team/david.36ed96acaf2c.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.jonah.showgif {
-    background-image: url("../img/team/jonah.0d956a8c7d3c.gif") !important
+    background-image: url("./img/team/jonah.0d956a8c7d3c.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.cathy.showgif {
-    background-image: url("../img/team/cathy.403e50de76d4.gif") !important
+    background-image: url("./img/team/cathy.403e50de76d4.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.luna.showgif {
-    background-image: url("../img/team/luna.7a5d191c7ece.gif") !important
+    background-image: url("./img/team/luna.7a5d191c7ece.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.max.showgif {
-    background-image: url("../img/team/max.fdffdc57f6f4.gif") !important
+    background-image: url("./img/team/max.fdffdc57f6f4.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.simon.showgif {
-    background-image: url("../img/team/simon.ce97be4d9346.gif") !important
+    background-image: url("./img/team/simon.ce97be4d9346.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.steven.showgif {
-    background-image: url("../img/team/steven.44a7fead3532.gif") !important
+    background-image: url("./img/team/steven.44a7fead3532.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.raquel.showgif {
-    background-image: url("../img/team/raquel.ef04567426bd.gif") !important
+    background-image: url("./img/team/raquel.ef04567426bd.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.james.showgif {
-    background-image: url("../img/team/james.49db68a6d7a3.gif") !important
+    background-image: url("./img/team/james.49db68a6d7a3.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.peterl.showgif {
-    background-image: url("../img/team/pete.ad25e44db313.gif") !important
+    background-image: url("./img/team/pete.ad25e44db313.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.rachael.showgif {
-    background-image: url("../img/team/rachael.ccf0f9178ba6.gif") !important
+    background-image: url("./img/team/rachael.ccf0f9178ba6.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.danny.showgif {
-    background-image: url("../img/team/danny.b28d2e0e886d.gif") !important
+    background-image: url("./img/team/danny.b28d2e0e886d.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.katie.showgif {
-    background-image: url("../img/team/katie.cfbb23bcc7e6.gif") !important
+    background-image: url("./img/team/katie.cfbb23bcc7e6.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.aj.showgif {
-    background-image: url("../img/team/aj.1f0718ff6a83.gif") !important
+    background-image: url("./img/team/aj.1f0718ff6a83.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.zach.showgif {
-    background-image: url("../img/team/zach.2f89bfbc4bde.gif") !important
+    background-image: url("./img/team/zach.2f89bfbc4bde.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.alex.showgif {
-    background-image: url("../img/team/alex.76c0631b96b8.gif") !important
+    background-image: url("./img/team/alex.76c0631b96b8.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.erin.showgif {
-    background-image: url("../img/team/erin.81d7cd926152.gif") !important
+    background-image: url("./img/team/erin.81d7cd926152.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.catherine.showgif {
-    background-image: url("../img/team/catherine.349cbf311bcd.gif") !important
+    background-image: url("./img/team/catherine.349cbf311bcd.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.matt.showgif {
-    background-image: url("../img/team/matt.f4e2e6becec4.gif") !important
+    background-image: url("./img/team/matt.f4e2e6becec4.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.suzie.showgif {
-    background-image: url("../img/team/suzie.88aab42d301a.gif") !important
+    background-image: url("./img/team/suzie.88aab42d301a.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.daniel.showgif {
-    background-image: url("../img/team/daniel.1486073ab526.gif") !important
+    background-image: url("./img/team/daniel.1486073ab526.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee .face.julie.showgif {
-    background-image: url("../img/team/julie.9ac63aa62683.gif") !important
+    background-image: url("./img/team/julie.9ac63aa62683.gif") !important
 }
 
 #team .sectionTeam .employeeHolder ul li.employee span {
@@ -19778,7 +19778,7 @@ html[data-useragent*='MSIE 10.0'] #advertise form {
 #fancybox-loading div {
     width: 44px;
     height: 44px;
-    background: url("../img/loaders/5bar_64x32.7f0c323033a2.gif") center center no-repeat
+    background: url("./img/loaders/5bar_64x32.7f0c323033a2.gif") center center no-repeat
 }
 
 .fancybox-close {
