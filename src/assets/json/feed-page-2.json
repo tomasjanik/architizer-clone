@@ -70,6 +70,18 @@
     "imageBlocks": [
       {
         "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
+        "data-globalid": "media.mediaitemattribution.1073938",
+        "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/9c/32/9c3214cb2a7ac1520c450619023b53ef.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/b3/4b/b34bf7e94441e2a53e8941916ce7021f.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/c7/26/c72646a5ddfc5c153284d225bee2b017.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/4b/fe/4bfe1b0de58137a995562314c5e1242e.jpg\" }",
+
+        "data-focustop": "0.5",
+        "data-focusleft": "0.5",
+        "data-imgorigwidth": "None",
+        "data-imgorigheight": "None",
+        "href": "/projects/intrinsic-school/",
+        "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/4b/fe/4bfe1b0de58137a995562314c5e1242e.jpg); background-position: 50% 50%;"
+      },
+      {
+        "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
         "data-globalid": "media.mediaitemattribution.1075185",
         "hero": "https://acdn.architizer.com/thumbnails-PRODUCTION/5d/a3/5da3d25750b41780bb2ab0fb3cb86b2a.jpg",
         "large": "https://acdn.architizer.com/thumbnails-PRODUCTION/d0/99/d099acaff9dcf5fa8ec1770637a462a5.jpg",
@@ -656,19 +668,7 @@
                 "dataImgid": "1073942"
               },
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1073938",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/9c/32/9c3214cb2a7ac1520c450619023b53ef.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/b3/4b/b34bf7e94441e2a53e8941916ce7021f.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/c7/26/c72646a5ddfc5c153284d225bee2b017.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/4b/fe/4bfe1b0de58137a995562314c5e1242e.jpg\" }",
-                  "dataImgid": "1073938",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/intrinsic-school/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/4b/fe/4bfe1b0de58137a995562314c5e1242e.jpg); background-position: 50% 50%;"
-                }
+                "dataImgid": "1073938"
               },
               {
                 "dataImgid": "1073937"
