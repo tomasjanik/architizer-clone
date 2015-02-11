@@ -48,7 +48,7 @@ about.factory('AboutTemplateService', function ($http, URL) {
     };
 
     var getGridViewItemTemplates = function () {
-        return $http.get(URL + 'partials/about/' + 'feed-page-1.html');
+        return $http.get(URL + 'partials/about/' + 'feed-page-2.html');
     };
 
 
