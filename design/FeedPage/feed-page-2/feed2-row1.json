@@ -8,66 +8,18 @@
         "div": [
           {
             "dataImgid": "1075185"
-            "div": {
-              "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-              "data-globalid": "media.mediaitemattribution.1075185",
-              "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/5d/a3/5da3d25750b41780bb2ab0fb3cb86b2a.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/d0/99/d099acaff9dcf5fa8ec1770637a462a5.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/37/d4/37d44d5fa0aebe42cc36334d1a6ddc14.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/c5/71/c5713933b8e6a3d062f99ac30440d63b.jpg\" }",
-              "dataImgid": "1075185",
-              "data-focustop": "0.5",
-              "data-focusleft": "0.5",
-              "data-imgorigwidth": "None",
-              "data-imgorigheight": "None",
-              "href": "/projects/house-aadd/",
-              "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/37/d4/37d44d5fa0aebe42cc36334d1a6ddc14.jpg); background-position: 50% 50%;"
-            }
           },
           {
             "class": "subimgs",
             "div": [
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1075143",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/9d/12/9d12c5876ecb64d778be695cae0827c1.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/10/02/1002fb10a010acdea0fa355b469d2bf9.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/e6/cf/e6cf7d719963dfe22e6cfc7a19f5d587.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/84/f8/84f8c76ab58981d32f00cec43b56cac3.jpg\" }",
-                  "dataImgid": "1075143",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/house-aadd/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/84/f8/84f8c76ab58981d32f00cec43b56cac3.jpg); background-position: 50% 50%;"
-                }
+                "dataImgid": "1075143"
               },
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1075122",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/5f/11/5f111bb3a3f926dc713b2220efc7c003.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/e1/ad/e1ad420f991b678b3e17c3333aa8a8ef.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/49/78/497825112445c819798717b89dadbcdf.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/38/7e/387e4c1a1a792ad462a125051a4bd5ed.jpg\" }",
-                  "dataImgid": "1075122",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/house-aadd/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/38/7e/387e4c1a1a792ad462a125051a4bd5ed.jpg); background-position: 50% 50%;"
-                }
+                "dataImgid": "1075122"
               },
               {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1075138",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/c1/24/c12435dceb01953ea621a4a701677c19.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/7e/73/7e73587404de09da519c029d8cc46aab.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/52/12/521218dd4b4b9f9a9d93bbff8959581b.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/64/a2/64a211aa54bd484c2847faff9de8c0f4.jpg\" }",
-                  "dataImgid": "1075138",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/house-aadd/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/64/a2/64a211aa54bd484c2847faff9de8c0f4.jpg); background-position: 50% 50%;"
-                }
+                "dataImgid": "1075138"
               }
             ]
           },
