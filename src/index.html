@@ -54,7 +54,8 @@
     <!-- font awesome from BootstrapCDN -->
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="assets/app.css"/>
+    <link rel="stylesheet" href="assets/project.css"/>
+    <link rel="stylesheet" href="assets/main.css"/>
 
     <!-- compiled CSS --><% styles.forEach( function ( file ) { %>
     <!--<link rel="stylesheet" type="text/css" href="<%= file %>"/>-->
@@ -99,7 +100,7 @@
     <!--</div>-->
 
     <div ng-controller="SlideNavCtrl as ctrl">
-    <app-slide-nav content="ctrl.slideMenuObj"></app-slide-nav>
+        <app-slide-nav content="ctrl.slideMenuObj"></app-slide-nav>
     </div>
 
     <div id="Pages" class="pages js-pages merlin-init" style="{{appObj._style}}">
