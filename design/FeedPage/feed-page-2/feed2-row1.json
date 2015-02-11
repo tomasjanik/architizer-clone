@@ -61,19 +61,7 @@
         "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
         "div": [
           {
-            "class": "img-holder",
-            "div": {
-              "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-              "data-globalid": "media.mediaitemattribution.1075175",
-              "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/69/1a/691aa302e45f5343f991aea48bc629c7.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/e6/ac/e6ac65c64c953fae358e4038d7f1536d.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/25/84/258435642f35a85fa33ba5593757b142.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/fa/9d/fa9dae8a1c76b7aedf90879d53559eed.jpg\" }",
-              "dataImgid": "1075175",
-              "data-focustop": "0.5",
-              "data-focusleft": "0.5",
-              "data-imgorigwidth": "None",
-              "data-imgorigheight": "None",
-              "href": "/blog/snow-fort/",
-              "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/25/84/258435642f35a85fa33ba5593757b142.jpg); background-position: 50% 50%;"
-            }
+            "dataImgid": "1075175"
           },
           {
             "class": "meta clear",
