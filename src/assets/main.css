@@ -2728,9 +2728,10 @@ body.feature-touch .ed-block .txt .body, body.less-animation .ed-block .txt .bod
     color: #474645
 }
 
+/*width: 31.20567375886525%*/
 .ed-block.third {
     margin-right: 3.1914893617021276%;
-    width: 31.20567375886525%
+    width: 30%
 }
 
 .ed-block.third.every-3n, .ed-block.third:nth-child(3n) {

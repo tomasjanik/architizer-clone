@@ -81,7 +81,8 @@ about.factory('Reddit', ['$http', 'AboutDataService', 'pageService', function ($
 
         AboutDataService.getData(pageService.currentPageStep()).then(function (result) {
             this.items = pageService.pushOnePageData(result.data);
-            //this.busy = false;
+            console.log("nextPage:" + pageService.currentPageStep());
+            this.busy = false;
         }.bind(this));
     };
 
