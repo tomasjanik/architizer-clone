@@ -91,7 +91,8 @@ about.factory('Reddit', ['$http', 'AboutDataService', 'pageService', function ($
 about.directive('feedPageItem', ['$compile', 'AboutTemplateService', 'pageService', function ($compile, AboutTemplateService, pageService) {
     var linker = function (scope, element, attrs) {
         var pageType = attrs['pagetype'];
-        var pageIndex = attrs['pageindex'] + 1;
+        var pageIndex = attrs['pageindex'];
+        pageIndex++;
 
         scope.item = pageService.getGrieViewItem(pageType);
 
