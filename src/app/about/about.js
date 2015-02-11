@@ -21,7 +21,7 @@ about.config(function config($stateProvider) {
 
 about.factory('AboutDataService', function ($http, URL) {
     var getData = function () {
-        return $http.get(URL + 'json/' + 'feed-page-1.json');
+        return $http.get(URL + 'json/' + 'feed-page-2.json');
     };
 
     return {
