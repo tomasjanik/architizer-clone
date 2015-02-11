@@ -14,7 +14,7 @@ pageService.service('pageService', ['ImageSetHelper', 'uuid2', function (ImageSe
     this._userProfileMenuItems = [];
     this._tradingTableRows = [];
 
-    this.pageStep = 0;
+    this.pageStep = 1;
 
     this.currentPageStep = function () {
         return this.pageStep;
