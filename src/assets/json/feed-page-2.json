@@ -214,7 +214,18 @@
         "href": "/blog/2015-aia-young-architect-award/",
         "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/8c/e8/8ce8c8e9b31fa0a35326f599ff1d2ca9.jpg); background-position: 50% 50%;"
       },
-
+      {
+        "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
+        "data-globalid": "media.mediaitemattribution.1074675",
+        "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/7c/7b/7c7b9fcca9e2249adecddcb052264e45.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/76/61/7661337b300ed40de5b8e447390e420a.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/58/09/5809237bbdb7207cfa5f0c48c4b95878.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/6c/b8/6cb8d08cd663c422d6e36986123b6577.jpg\" }",
+        "dataImgid": "1074675",
+        "data-focustop": "0.288743882545",
+        "data-focusleft": "0.528526426321",
+        "data-imgorigwidth": "None",
+        "data-imgorigheight": "None",
+        "href": "/projects/tree-house-4/",
+        "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/58/09/5809237bbdb7207cfa5f0c48c4b95878.jpg); background-position: 52.8526426321% 28.8743882545%;"
+      },
 
 
 
