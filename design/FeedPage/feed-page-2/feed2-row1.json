@@ -7,7 +7,7 @@
         "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
         "div": [
           {
-            "class": "img-holder",
+            "dataImgid": "1075185"
             "div": {
               "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
               "data-globalid": "media.mediaitemattribution.1075185",
