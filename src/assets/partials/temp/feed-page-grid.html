@@ -1,0 +1,89 @@
+<div class="row colset-full pthalf">
+    <!-- pt1 gets overridden by css if not first child -->
+    <div class="col-full">
+        <div class="col-membrane mbneg1half">
+            <a data-ng-repeat='item in reddit.items' href="{{item.hrefValue}}" class="{{item.classValue}}">
+
+                <div class="img-holder">
+                    <div class="{{item.imageHolder.imageTag.classValue}}"
+                         data-globalid="media.mediaitemattribution.1065944"
+                         data-imgid="1065944"
+                         data-focustop="0.5"
+                         data-focusleft="0.5"
+                         data-imgorigwidth="800"
+                         data-imgorigheight="600"
+                         href="/projects/kelly-cullen-community/"
+                         afkl-lazy-image="{{item.imageHolder.imageTag.imageset}}"
+                         style="background-position: 50% 50%;width:100%;height: 100%;">
+                    </div>
+                </div>
+
+                <div class="subimgs">
+                    <div class="subimg-holder">
+                        <div
+                                class="{{item.subImages.subImageHolderList[0].classValue}}"
+                                data-globalid="media.mediaitemattribution.1065947"
+                                data-imgid="1065947"
+                                data-focustop="0.5"
+                                data-focusleft="0.5"
+                                data-imgorigwidth="800"
+                                data-imgorigheight="533"
+                                href="/projects/kelly-cullen-community/"
+                                afkl-lazy-image="{{item.subImages.subImageHolderList[0].imageset}}"
+                                style="background-position: 50% 50%;width:100%;height: 100%;">
+                        </div>
+                    </div>
+                    <div class="subimg-holder">
+                        <div
+                                class="{{item.subImages.subImageHolderList[0].classValue}}"
+                                data-globalid="media.mediaitemattribution.1065947"
+                                data-imgid="1065947"
+                                data-focustop="0.5"
+                                data-focusleft="0.5"
+                                data-imgorigwidth="800"
+                                data-imgorigheight="533"
+                                href="/projects/kelly-cullen-community/"
+                                afkl-lazy-image="{{item.subImages.subImageHolderList[1].imageset}}"
+                                style="background-position: 50% 50%;width:100%;height: 100%;">
+                        </div>
+                    </div>
+                    <div class="subimg-holder">
+                        <div
+                                class="{{item.subImages.subImageHolderList[0].classValue}}"
+                                data-globalid="media.mediaitemattribution.1065947"
+                                data-imgid="1065947"
+                                data-focustop="0.5"
+                                data-focusleft="0.5"
+                                data-imgorigwidth="800"
+                                data-imgorigheight="533"
+                                href="/projects/kelly-cullen-community/"
+                                afkl-lazy-image="{{item.subImages.subImageHolderList[2].imageset}}"
+                                style="background-position: 50% 50%;width:100%;height: 100%;">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="meta clear">
+                                            <span href="/feed/q/post_categories:Project of the Day/"
+                                                  class="{{item.metaInfo.classValue}}">{{item.metaInfo.eyebrowValue}}</span>
+                    <span class="views">{{item.metaInfo.viewsCount}}</span>
+                    <span class="timestamp">{{item.metaInfo.timestamp}}</span>
+                </div>
+
+                <div class="txt">
+                    <h4>{{item.textInfo.title}}</h4>
+
+                    <div class="author" ng-if="item.textInfo.author != ''">
+                        <h5 class="byline"><em>by</em> {{item.textInfo.author}}
+                        </h5>
+                    </div>
+                    <!--<h5 class="byline"><em>by</em> Carr Design Group</h5>-->
+			<span class="body">
+				{{item.textInfo.paragraph}}
+			</span>
+                </div>
+
+            </a>
+        </div>
+    </div>
+</div>

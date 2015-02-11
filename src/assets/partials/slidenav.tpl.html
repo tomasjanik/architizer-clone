@@ -1,0 +1,13 @@
+<!--{{content._id}}-->
+
+<!--<p>{{slideMenuVisible}}</p>-->
+
+<div class="{{content._class}}" style="{{content._style}}">
+    <ul class="{{content.slideMenuUL._class}}">
+        <li data-ng-repeat='item in content.slideMenuUL.slideMenuAList'>
+            <a class="{{item._class}}" href="{{item._href}}">
+                {{item._value}}
+            </a>
+        </li>
+    </ul>
+</div>

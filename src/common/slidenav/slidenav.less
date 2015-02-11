@@ -1,0 +1,85 @@
+
+.slidenav {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background: #292827;
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 250px;
+  height: 100%;
+  overflow: hidden
+}
+
+.slidenav:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 12px;
+  height: 100%;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(20, 20, 19, 0)), color-stop(100%, rgba(20, 20, 19, 0.35)));
+  background: -webkit-linear-gradient(left, rgba(20, 20, 19, 0) 0, rgba(20, 20, 19, 0.35) 100%);
+  background: -moz-linear-gradient(left, rgba(20, 20, 19, 0) 0, rgba(20, 20, 19, 0.35) 100%);
+  background: -o-linear-gradient(left, rgba(20, 20, 19, 0) 0, rgba(20, 20, 19, 0.35) 100%);
+  background: -ms-linear-gradient(left, rgba(20, 20, 19, 0) 0, rgba(20, 20, 19, 0.35) 100%);
+  background: linear-gradient(to right, rgba(20, 20, 19, 0) 0, rgba(20, 20, 19, 0.35) 100%);
+  //  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00141413, endColorstr=#59141413, GradientType=1)
+}
+
+.slidenav ul.mainnav {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1
+}
+
+.slidenav ul.mainnav li a {
+  display: block;
+  height: 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-bottom: 1px solid #474645;
+  border-bottom: 1px solid rgba(71, 70, 69, 0.4);
+  color: #ebeae8;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap
+}
+
+.slidenav ul.mainnav li a .glyph {
+  opacity: .5;
+  margin-right: 6px;
+  width: 10px;
+  display: inline-block;
+  position: relative
+}
+
+.slidenav ul.mainnav li a.bottomborder {
+  border-bottom: 1px solid #666563
+}
+
+.slidenav ul.mainnav li a.inactive {
+  color: #666563;
+  cursor: default
+}
+
+.slidenav ul.mainnav li a small {
+  display: inline;
+  font-size: 70%;
+  position: relative;
+  top: -1px
+}
+
+.slidenav ul.mainnav li a.current, body.section-home .slidenav ul.mainnav li a.slidenav-news, body.section-news .slidenav ul.mainnav li a.slidenav-news, body.section-architecture .slidenav ul.mainnav li a.slidenav-architecture, body.section-products .slidenav ul.mainnav li a.slidenav-products, body.section-jobs .slidenav ul.mainnav li a.slidenav-jobs {
+  color: #0cb7fa;
+  background: #141413
+}

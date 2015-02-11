@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html ng-app="ngBoilerplate" ng-controller="AppCtrl">
+
+<head>
+    <title>Architizer - Explore, Collect and Source architecture &amp; interiors</title>
+    <meta charset='utf-8'/>
+    <script></script>
+
+    <meta name='description'
+          content='Architizer connects architects to a vibrant network of peers, fans, and potential clients.'/>
+    <meta name='keywords'
+          content='architecture, architecture news, interiors, interior design, portfolio, spec, brands, marketplace, products '/>
+
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no'/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="Architizer"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property='og:title' content='Architizer'/>
+    <meta property='og:url' content='architizer.com'/>
+    <meta property='og:description'
+          content='Architizer connects architects to a vibrant network of peers, fans, and potential clients.'/>
+
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+
+    <link rel='alternate' type='application/rss+xml' title='Architizer' href='blog/feed/default.htm'>
+
+    <link rel='shortcut icon' type='image/x-icon' href='assets/img/favicon.df2618023937.png'/>
+    <link rel='apple-touch-icon-precomposed' href='assets/img/ios/Icon.89526dc0de61.png'/>
+    <link rel='apple-touch-icon-precomposed' sizes='72x72'
+          href='assets/img/ios/Icon-72.88b8f644a613.png'/>
+    <link rel='apple-touch-icon-precomposed' sizes='114x114'
+          href='assets/img/ios/Icon_402x.bb30d2804f76.png'/>
+    <link rel='apple-touch-icon-precomposed' sizes='144x144'
+          href='assets/img/ios/Icon-72_402x.d602d8fd38cf.png'/>
+
+    <!-- social media tags -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@joshdmiller">
+    <meta name="twitter:title" content="ngBoilerplate">
+    <meta name="twitter:description" content="Non-Trivial AngularJS Made Easy: Everything you need to kickstart AngularJS projects: a best-practice directory structure, an intelligent build system, and the best web design libraries around.">
+    <meta name="twitter:creator" content="@joshdmiller">
+    <meta name="twitter:image:src" content="https://a248.e.akamai.net/assets.github.com/images/modules/logos_page/Octocat.png?1366128846">
+    <meta property="og:title" content="ngBoilerplate"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://bit.ly/ngBoilerplate"/>
+    <meta property="og:image" content="https://a248.e.akamai.net/assets.github.com/images/modules/logos_page/Octocat.png?1366128846"/>
+    <meta property="og:description" content="Non-Trivial AngularJS Made Easy: Everything you need to kickstart AngularJS projects: a best-practice directory structure, an intelligent build system, and the best web design libraries around.">
+
+    <!-- font awesome from BootstrapCDN -->
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="assets/app.css"/>
+
+    <!-- compiled CSS --><% styles.forEach( function ( file ) { %>
+    <!--<link rel="stylesheet" type="text/css" href="<%= file %>"/>-->
+    <!--<% }); %>-->
+
+    <!-- compiled JavaScript --><% scripts.forEach( function ( file ) { %>
+    <script type="text/javascript" src="<%= file %>"></script>
+    <% }); %>
+
+    <!-- it's stupid to have to load it here, but this is for the +1 button -->
+    <!--<script type="text/javascript" src="https://apis.google.com/js/plusone.js">-->
+    <!--{-->
+    <!--"parsetags"-->
+    <!--:-->
+    <!--"explicit"-->
+    <!--}-->
+    <!--</script>-->
+
+    <!--<script src="http://localhost:35729/livereload.js"></script>-->
+
+    <!-- Latest compiled and minified CSS -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+
+    <!-- Optional theme -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">-->
+</head>
+
+<!--<body>-->
+<!--<body lang='en_us' class="js-pages-not-loaded">-->
+<body lang="en_us" class="section-home browser-webkit browser-chrome os-win feature-touch" data-feedly-mini="yes" style="zoom: 1;" data-twttr-rendered="true">
+<!--<body lang="en_us" class="browser-webkit browser-chrome os-win feature-touch section-architecture page-projectbrowse" data-feedly-mini="yes" style="zoom: 1;" data-twttr-rendered="true">-->
+
+<div class="container">
+    <header id="{{appObj.header._id}}" class="{{appObj.header._class}}" style="{{appObj.header._style}}">
+        <div ng-controller="HeaderCtrl as ctrl">
+            <app-header content="ctrl.headerObj"></app-header>
+        </div>
+    </header>
+
+    <!--<div style="height: 100px;background-color: red; margin-top: 300px">-->
+    <!--<a ng-click="toggleHeader()">show menu</a>-->
+    <!--</div>-->
+
+    <div ng-controller="SlideNavCtrl as ctrl">
+    <app-slide-nav content="ctrl.slideMenuObj"></app-slide-nav>
+    </div>
+
+    <div id="Pages" class="pages js-pages merlin-init" style="{{appObj._style}}">
+        <div id="Feed" style="" class="step feed">
+            <div class="merlin-init" id="feed-browse-page">
+                <div class="feed-browse feed-items browse-items" id="FeedBrowse" ui-view="main">
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

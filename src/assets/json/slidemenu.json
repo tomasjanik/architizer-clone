@@ -1,0 +1,55 @@
+{
+  "_class": "slidenav js-slidenav",
+  "_style": "width: 200px;",
+  "slideMenuUL": {
+    "_class": "mainnav",
+    "slideMenuAList": [
+      {
+        "_class": "slidenav-news js-use-pushstate",
+        "_href": "/",
+        "_value": "News",
+        "slideSmall": {"hasIt": false}
+      },
+      {
+        "_class": "slidenav-architecture js-use-pushstate",
+        "_href": "/projects/q/",
+        "_value": "Explore Projects",
+        "slideSmall": {"hasIt": false}
+      },
+      {
+        "_class": "slidenav-products",
+        "_href": "/products/",
+        "_value": "Product Catalog",
+        "slideSmall": {"hasIt": false}
+      },
+      {
+        "_class": "slidenav-jobs bottomborder js-use-pushstate",
+        "_href": "/jobs/q/",
+        "_value": "Jobs",
+        "slideSmall": {"hasIt": false}
+      },
+      {
+        "_class": "slidenav-awards bottomborder",
+        "_href": "http://architizerawards.com",
+        "_value": "A",
+        "slideSmall": {
+          "_value": "+",
+          "_rightValue": "Awards",
+          "hasIt": true
+        }
+      },
+      {
+        "_class": "register js-use-pushstate",
+        "_href": "/register/",
+        "_value": "Join Now",
+        "slideSmall": {"hasIt": false}
+      },
+      {
+        "_class": "login js-use-pushstate",
+        "_href": "/login/",
+        "_value": "Sign in",
+        "slideSmall": {"hasIt": false}
+      }
+    ]
+  }
+}

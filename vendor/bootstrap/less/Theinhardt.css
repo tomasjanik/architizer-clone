@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: normal;
+  font-weight: 300;
+  src: url("fonts/008579D7-00D8-1E34-1306-843EC6BC82EA.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/BA766C3D-9F83-4950-AFCD-AD9F2BF5CEAB.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: italic;
+  font-weight: 700;
+  src: url("fonts/5F278FF9-E581-1824-0F92-F6D72B137A6A.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: italic;
+  font-weight: 500;
+  src: url("fonts/70F8A7D9-BDFF-D029-E465-E7FC928A5994.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: normal;
+  font-weight: 500;
+  src: url("fonts/F77BBDE3-5270-5846-90AD-5529C2FFDA57.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/DC84A178-A66C-DB8D-5140-7E5BF64AB28F.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: italic;
+  font-weight: 300;
+  src: url("fonts/BF522E13-B921-2C59-5FD3-9D3C689FC32B.it.woff") format("woff");
+}
+@font-face {
+  font-family: "Theinhardt-web";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/A7E06AF3-FA3A-4B28-764F-AC325B3529DA.it.woff") format("woff");
+}

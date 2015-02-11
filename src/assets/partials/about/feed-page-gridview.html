@@ -1,0 +1,35 @@
+<a href="{{item.hrefValue}}" class="{{item.classValue}}">
+
+    <div class="img-holder">
+        <image-block type="img-holder" position="0" itemId="{{item._uuid}}"></image-block>
+    </div>
+
+    <div class="subimgs">
+        <div class="subimg-holder">
+            <image-block type="subimg-holder" position="0" itemId="{{item._uuid}}"></image-block>
+        </div>
+        <div class="subimg-holder">
+            <image-block type="subimg-holder" position="1" itemId="{{item._uuid}}"></image-block>
+        </div>
+        <div class="subimg-holder">
+            <image-block type="subimg-holder" position="2" itemId="{{item._uuid}}"></image-block>
+        </div>
+    </div>
+
+    <div class="meta clear">
+        <span href="/feed/q/post_categories:Project of the Day/" class="{{item.metaInfo.classValue}}">{{item.metaInfo.eyebrowValue}}</span>
+        <span class="views">{{item.metaInfo.viewsCount}}</span>
+        <span class="timestamp">{{item.metaInfo.timestamp}}</span>
+    </div>
+
+    <div class="txt">
+        <h4>{{item.textInfo.title}}</h4>
+
+        <div class="author" ng-if="item.textInfo.author != ''">
+            <h5 class="byline"><em>by</em> {{item.textInfo.author}}</h5>
+        </div>
+        <!--<h5 class="byline"><em>by</em> Carr Design Group</h5>-->
+        <span class="body">{{item.textInfo.paragraph}}</span>
+    </div>
+
+</a>

@@ -1,0 +1,17 @@
+{
+  "div": {
+    "-class": "img img-support-add-to-collection js-use-pushstate is-loaded",
+    "-data-globalid": "media.mediaitemattribution.1082485",
+    "hero": "https://acdn.architizer.com/thumbnails-PRODUCTION/f5/e9/f5e9e58ce7049a102368a177efad2528.jpg",
+    "large": "https://acdn.architizer.com/thumbnails-PRODUCTION/22/85/22853d7d91502e3ffb0aa4d23edbcf8d.jpg",
+    "med": "https://acdn.architizer.com/thumbnails-PRODUCTION/22/85/22853d7d91502e3ffb0aa4d23edbcf8d.jpg",
+    "thumb": "https://acdn.architizer.com/thumbnails-PRODUCTION/22/85/22853d7d91502e3ffb0aa4d23edbcf8d.jpg",
+    "-data-imgid": "1082485",
+    "-data-focustop": "0.101307189542",
+    "-data-focusleft": "0.48223733938",
+    "-data-imgorigwidth": "None",
+    "-data-imgorigheight": "None",
+    "-href": "/projects/kindergarten-cerkvenjak-1/",
+    "-style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/22/85/22853d7d91502e3ffb0aa4d23edbcf8d.jpg); background-position: 48.223733938% 10.1307189542%;"
+  }
+}

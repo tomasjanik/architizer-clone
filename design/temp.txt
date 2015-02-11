@@ -1,0 +1,2 @@
+bower install angular.uuid2 --save-dev
+

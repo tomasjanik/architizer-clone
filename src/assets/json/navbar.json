@@ -1,0 +1,89 @@
+{
+  "_id": "Header",
+  "_class": "header js-header",
+  "_style": "-webkit-transform: none;",
+  "aLogo": {
+    "_id": "logo",
+    "_class": "logo js-use-pushstate",
+    "_href": "default.htm"
+  },
+  "leftMenuList": {
+    "_id": "mainnav",
+    "_class": "mainnav",
+    "menuItemList": [
+      {
+        "_class": "hide-on-phone",
+        "aTag": {
+          "_class": "nav-news js-use-pushstate",
+          "_href": "default.htm",
+          "_value": "News",
+          "spanTag": {"hasSpanTag": false}
+        }
+      },
+      {
+        "_class": "hide-on-phone",
+        "aTag": {
+          "_class": "nav-architecture js-use-pushstate",
+          "_href": "projects/q/default.htm",
+          "_value": "Explore Projects",
+          "spanTag": {"hasSpanTag": false}
+        }
+      },
+      {
+        "_class": "hide-on-phone",
+        "aTag": {
+          "_class": "nav-products",
+          "_href": "products/default.htm",
+          "_value": "Product Catalog",
+          "spanTag": {"hasSpanTag": false}
+        }
+      },
+      {
+        "_class": "hide-on-phone",
+        "aTag": {
+          "_class": "nav-jobs js-use-pushstate",
+          "_href": "jobs/q/default.htm",
+          "_value": "Jobs",
+          "spanTag": {"hasSpanTag": false}
+        }
+      },
+      {
+        "_class": "hide-on-phone",
+        "aTag": {
+          "_class": "nav-awards",
+          "_href": "../architizerawards.com/default.htm",
+          "_value": "A + Awards",
+          "spanTag": {"hasSpanTag": false}
+        }
+      }
+    ]
+  },
+  "rightMenuList": {
+    "_id": "usernav",
+    "_class": "usernav",
+    "menuItemList": [
+      {
+        "_class": "register hide-on-phone",
+        "aTag": {
+          "_class": "register js-join-now",
+          "_href": "register/default.htm",
+          "_value": "Join ",
+          "spanTag": {
+            "_class": "hide-on-small800",
+            "_value": "Now",
+            "hasSpanTag": true
+          }
+        }
+      },
+      {
+        "_class": "login hide-on-phone",
+        "aTag": {
+          "_class": "js-use-pushstate",
+          "_href": "login/default.htm",
+          "_value": "Sign in",
+          "spanTag": {"hasSpanTag": false}
+        }
+      }
+    ]
+  }
+}

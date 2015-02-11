@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+    <title>纯css顶部固定</title>
+    <style type="text/css">
+        /*<![CDATA[*/
+        body {
+            margin: 0;
+            padding: 0 10px 0 10px;
+            border: 0;
+            height: 100%;
+            overflow: auto;
+        }
+
+        #menu {
+            right: 0;
+            top: 0;
+            width: 100%;
+            position: fixed;
+            padding: 10px;
+            text-align: center;
+            font-weight: bold;
+            background: #20cccccc;
+        }
+
+        * html #menu {
+            position: absolute;
+            right: 16px;
+            top: 0;
+        }
+
+        /*only for ie*/
+        html {
+            overflow: auto !important;
+            overflow: hidden;
+        }
+
+        /*]]>*/
+    </style>
+</head>
+<!-- -->
+<body id="" class="">
+<div>
+    <div style=" height:1890px;">
+        Steven Holl has firmly established himself as a go-to-guy for new museum projects. He got
+        his start with the iconic fa?ade for the Storefront for Art and Architecture back in 1993, a
+        collaboration with the artist Vito Acconci. While that was a small project that is but a
+        sliver of space compared to his buildings today, its novel reorientation of both the gallery
+        space and the public streetscape via an architectural gesture ? a dynamic fa?ade ? has set
+        the course for his oeuvre of over 20 museum projects over the past two decades. The Museum
+        of Fine Arts, Houston. All images courtesy Steven Holl Architects. Holl's latest project is
+        The Museum of Fine Arts, Houston, which continues in Holl's signature style with elegant and
+        subtly light-drenched spaces, custom-fitted to a historic and complex site. Here, the New
+        York-based architect picks up where he left off with the 1998 Cranbrook Institute of Science
+        and 2007 Nelson-Atkins Museum of Art in Kansas City, among other cultural institutions
+        designed by his firm. Situated on the Fayez S. Sarofim Campus, flanked by Mies van der Rohe
+        and Rafael Moneo buildings and an Isamu Noguchi sculpture ...
+    </div>
+    <div id="menu">顶部固定</div>
+</div>
+</body>
+</html>

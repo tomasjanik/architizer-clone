@@ -1,0 +1,17 @@
+<div class="step items results" style="display: block;" infinite-scroll='reddit.nextPage()' infinite-scroll-disabled='reddit.busy' infinite-scroll-distance='1'>
+    <div id="feed-page-1">
+        <feed-page-item ng-repeat="item in reddit.items" pageType="{{item.page.type}}"></feed-page-item>
+    </div>
+</div>
+
+<!--<div style="height: 100px;background-color: #ff0000">{{reddit.busy}}</div>-->
+
+<div class="row" style="height: 60px;vertical-align:middle;" ng-show='reddit.busy'>
+    <div class="sk-spinner sk-spinner-wave">
+        <div class="sk-rect1"></div>
+        <div class="sk-rect2"></div>
+        <div class="sk-rect3"></div>
+        <div class="sk-rect4"></div>
+        <div class="sk-rect5"></div>
+    </div>
+</div>

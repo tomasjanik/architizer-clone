@@ -1,0 +1,10 @@
+<ul ng-class="rightMenuList._class"
+    id="{{rightMenuList._id}}"
+    data-ng-repeat='item in rightMenuList.menuItemList'>
+    <li ng-class="item._class">
+        <a ng-href='item.aTag._href' ng-class='item.aTag._class'>
+            {{item.aTag._value}}
+            <span ng-if="item.aTag.spanTag.hasSpanTag" class="{{item.aTag.spanTag._class}}">{{item.aTag.spanTag._value}}</span>
+        </a>
+    </li>
+</ul>

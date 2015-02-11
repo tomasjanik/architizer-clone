@@ -1,0 +1,133 @@
+/**
+ * This is the main application stylesheet. It should include or import all
+ * stylesheets used throughout the application as this is the only stylesheet in
+ * the Grunt configuration that is automatically processed.
+ */
+/**
+ * First, we include the Twitter Bootstrap LESS files. Only the ones used in the
+ * project should be imported as the rest are just wasting space.
+ */
+@import '../../vendor/bootstrap/less/bootstrap.less';
+/**
+ * This is our main variables file. We must include it last so we can overwrite any variable
+ * definitions in our imported stylesheets.
+ */
+@import 'variables.less';
+
+/*Global website style*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, button, input {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: inherit;
+  font: inherit;
+  text-transform: inherit;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block
+}
+
+body {
+  line-height: 1
+}
+
+ol, ul {
+  list-style: none
+}
+
+blockquote, q {
+  quotes: none
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+input[type=text], input[type=email], button {
+  width: 100%;
+  vertical-align: top;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box
+}
+
+.clear:before {
+  content: '';
+  display: table
+}
+
+.clear:after {
+  content: '';
+  display: table;
+  clear: both
+}
+
+.no-clear:before {
+  content: normal;
+  display: inherit
+}
+
+.no-clear:after {
+  content: normal;
+  display: inherit;
+  clear: none
+}
+
+/**
+ * Footer
+ */
+
+.footer {
+  margin-top: 80px;
+
+  .footer-inner {
+    padding: 40px 0;
+    border-top: 1px solid #DDD;
+  }
+
+  .social {
+    float: right;
+    margin: 0;
+    list-style: none;
+
+    li {
+      float: left;
+      margin-left: 20px;
+
+      a, a:visited {
+        color: @gray-light;
+        text-decoration: none;
+        font-size: 40px;
+        .transition(250ms ease-in-out);
+
+        &:hover {
+          color: @gray;
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Now that all app-wide styles have been applied, we can load the styles for
+ * all the submodules and components we are using. 
+ *
+ * TODO: In a later version of this boilerplate, I'd like to automate this.
+ */
+
+@import '../app/home/home.less';
+@import '../app/about/about.less';
+@import '../common/header/header.less';
+@import '../common/slidenav/slidenav.less';
+

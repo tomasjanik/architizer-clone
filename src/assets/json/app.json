@@ -1,0 +1,17 @@
+{
+  "header": {
+    "_id": "Header",
+    "_class": "header js-header",
+    "_style": "-webkit-transform: none;"
+  },
+  "slide": {
+    "_id": "SlideNav",
+    "_class": "slidenav js-slidenav",
+    "_style": "width: 200px;"
+  },
+  "page": {
+    "_id": "page",
+    "_class": "",
+    "_style": "-webkit-transform: none;"
+  }
+}
