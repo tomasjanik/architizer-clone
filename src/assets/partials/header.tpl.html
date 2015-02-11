@@ -2,36 +2,38 @@
     <logo></logo>
     <nav>
         <ul class="mainnav" id="mainnav">
-            <li data-ng-repeat='item in content.leftMenuList.menuItemList' class="{{item._class}}">
-                <a href='{{item.aTag._href}}' class='{{item.aTag._class}}'>{{item.aTag._value}}</a>
+            <li data-ng-repeat='leftMenu in content.leftMenuList.menuItemList' class="{{leftMenu._class}}">
+                <a href='{{leftMenu.aTag._href}}' class='{{leftMenu.aTag._class}}'>{{leftMenu.aTag._value}}</a>
             </li>
             <li class="only-on-phone phone js-phone">
                 <header-toggle></header-toggle>
             </li>
             <li class='globalsearch-holder' id='globalsearch-holder'>
-                <a><span class="glyph">S</span><span
-                        class="hide-on-small900">&nbsp;&nbsp;Search<span
-                        class="hide-on-medium hide-on-mobile"> for architecture & products</span>&hellip;</span></a>
+                <a><span class="glyph">S</span>
+                    <span class="hide-on-small900">&nbsp;&nbsp;Search
+                        <span class="hide-on-medium hide-on-mobile"> for architecture & products</span>
+                        &hellip;</span>
+                </a>
 
                 <div class="globalsearch-input">
                     <span class="search header glyph">S</span>
 
                     <form>
-                        <div class='larch-input larch not-hide-on-phone' data-name='globalsearch'
+                        <div class='larch-input larch not-hide-on-phone'
+                             data-name='globalsearch'
                              data-validation=''
-                             data-id_name='' data-text_name=''
+                             data-id_name=''
+                             data-text_name=''
                              data-extensions='larch/Autocomplete={"src":"/search/autocomplete/", "data": {"field": ""  } }'>
                             <div class='control nopadding'>
                                 <div class='blank-ui pl1'>
-
-        <span class='placeholder nopadding'>Search <span
-                class='hide-on-phone'>for architecture & products</span> &hellip;</span>
+                                    <span class='placeholder nopadding'>Search <span class='hide-on-phone'>for architecture & products</span> &hellip;</span>
                                 </div>
                                 <input type='text'/>
-        <span class='tooltip righthand '>
-        <span class='default-tip '></span>
-        <span class='errors'></span>
-        </span>
+                                    <span class='tooltip righthand '>
+                                        <span class='default-tip '></span>
+                                        <span class='errors'></span>
+                                    </span>
                             </div>
                             <div class='menu'></div>
                         </div>

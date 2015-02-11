@@ -7,7 +7,7 @@ header.constant('URL', 'assets/');
 
 header.factory('HeaderDataService', function ($http, URL) {
     var getData = function () {
-        return $http.get(URL + 'json/' + 'navbar.json');
+        return $http.get(URL + 'json/' + 'header.json');
     };
 
     return {
@@ -117,7 +117,6 @@ header.directive('headerToggle', ['$compile', 'HeaderTemplateService', 'SlideHel
         element.bind('click', function () {
             var appObj = app.appObj;
             SlideHelper.toggleSlideMenu();
-            //element[0].innerText = "Rolled Over";
         });
 
         HeaderTemplateService.getHeaderToggleTemplates().then(function (response) {
