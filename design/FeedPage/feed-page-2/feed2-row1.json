@@ -3,550 +3,64 @@
     "class": "col-membrane mbneg1half",
     "a": [
       {
-        "href": "/projects/house-aadd/",
-        "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1075185"
-          },
-          {
-            "class": "subimgs",
-            "div": [
-              {
-                "dataImgid": "1075143"
-              },
-              {
-                "dataImgid": "1075122"
-              },
-              {
-                "dataImgid": "1075138"
-              }
-            ]
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Featured Project/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Featured Project"
-              },
-              {
-                "class": "views",
-                "#text": "4,810"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "House AADD",
-            "h5": {
-              "class": "byline",
-              "em": "by",
-              "#text": " Galeria Gabinete - Architecture, Design and Engineering "
-            },
-            "span": {
-              "class": "body",
-              "#text": "How would it be if I grew up in that place? How it would be to know a friend since I was a little kid? A generously sized field that included a wall, two staircases, and granite columns, between the construction that would serve the future, an imaginary house in their intentions, were the starting points. The house would have to be developed on two platforms. Superior as a point of arrival to be showed to the square, leaving it breathing before a permeable seal. Another inferior, trusting privacy and silence where the word comfort stands. Panels and doors to discover spaces, details of simplicity, views, light, and visual relationships between floors. The various perspectives of housing became evident as well as a block of ostentation, which levitates between light and dark, between strains, solids and voids that enhance the volumetry."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/projects/house-aadd/"
+        }
       },
       {
-        "href": "/blog/snow-fort/",
-        "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1075175"
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Buildings/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Buildings"
-              },
-              {
-                "class": "views",
-                "#text": "682"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "7 Tips for Making the Coolest Snow Fort on Your Block",
-            "span": {
-              "class": "body",
-              "#text": "It's a damn shame that the precipitation that punished NYC yesterday is of the slushy, truly misery-inducing variety — because somehow last week's underwhelming dusting somehow warrants a city-wide snow day but we find ourselves trudging through a city covered in slick, gray nastiness. Still, we can't help but dream of a proper winter wonderland (looks like Chicago and Boston saw more of the white stuff) and the recreational opportunities that snow brings: sledding, playing beer pong in an empty street, or building a snow fort. If you chose the latter, then you are a brave soul. It is not easy to make a good fort, especially one that will be big enough for any substantial activities. Maybe you aren't old enough for the kind of adult fun pictured above — or (more likely) you are too old for it. Either way, the time-honored fort-building techniques developed in driveways over the last millions of years have produced ingenious and not-so-ingenious ways of making snow-forts. But with a little patience and a few buddies, you will get it figured out in no time. Winter is still in full swing, so here are a few of our favorite tips and tricks for ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/blog/snow-fort/"
+        }
       },
       {
-        "href": "/projects/offices-broccolini-construction/",
-        "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1075035"
-          },
-          {
-            "class": "subimgs",
-            "div": [
-              {
-                "dataImgid": "1074976"
-              },
-              {
-                "dataImgid": "1074992"
-              },
-              {
-                "dataImgid": "1074984"
-              }
-            ]
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Featured Project/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Featured Project"
-              },
-              {
-                "class": "views",
-                "#text": "2,209"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Offices Broccolini Construction",
-            "h5": {
-              "class": "byline",
-              "em": "by",
-              "#text": " Rubin & Rotman Architects"
-            },
-            "span": {
-              "class": "body",
-              "#text": "The building’s 1950s vintage-inspired interior is both functional and welcoming. The approach to its design is simple and straightforward and favors an honest expression of materials and tectonics. The four-level flexible office space holds most of the usual workplace amenities, such as individual offices, conference rooms, and rest areas. It manages to register visual and physical permeability with glass partitions and captures engaging views across the space. It establishes a spatial coherence and promotes social cohesion by providing communal facilities — an angular wooden counter actually serves as the backbone to the design as it encourages gathering and interaction. The use of a bold color scheme explicitly communicates the company’s identity, works as a means of way-finding, and ensures that each area within the building works with one another to create a unified whole."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/projects/offices-broccolini-construction/"
+        }
       },
       {
-        "href": "/projects/intrinsic-school/",
-        "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1074136"
-          },
-          {
-            "class": "subimgs",
-            "div": [
-              {
-                "dataImgid": "1073942"
-              },
-              {
-                "class": "subimg-holder",
-                "div": {
-                  "class": "img img-support-add-to-collection js-use-pushstate is-loaded",
-                  "data-globalid": "media.mediaitemattribution.1073938",
-                  "data-imgset": "{ \"hero\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/9c/32/9c3214cb2a7ac1520c450619023b53ef.jpg\", \"large\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/b3/4b/b34bf7e94441e2a53e8941916ce7021f.jpg\", \"med\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/c7/26/c72646a5ddfc5c153284d225bee2b017.jpg\", \"thumb\":\"https://acdn.architizer.com/thumbnails-PRODUCTION/4b/fe/4bfe1b0de58137a995562314c5e1242e.jpg\" }",
-                  "dataImgid": "1073938",
-                  "data-focustop": "0.5",
-                  "data-focusleft": "0.5",
-                  "data-imgorigwidth": "None",
-                  "data-imgorigheight": "None",
-                  "href": "/projects/intrinsic-school/",
-                  "style": "background-image: url(https://acdn.architizer.com/thumbnails-PRODUCTION/4b/fe/4bfe1b0de58137a995562314c5e1242e.jpg); background-position: 50% 50%;"
-                }
-              },
-              {
-                "dataImgid": "1073937"
-              }
-            ]
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Featured Project/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Featured Project"
-              },
-              {
-                "class": "views",
-                "#text": "917"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Intrinsic School",
-            "h5": {
-              "class": "byline",
-              "em": "by",
-              "#text": " Wheeler Kearns Architects"
-            },
-            "span": {
-              "class": "body",
-              "#text": "Not many educators would look at a shuttered lumberyard on Chicago’s Northwest Side and declare it the perfect place for a new school. The original 41,000-square-foot open structure provided the perfect opportunity to transform into an innovative space and support the Blended Learning curriculum. Instead of traditional classrooms, it features oversized teaching spaces called “pods” that foster the personalized instruction to which the school is committed. Half of each tandem pod focuses on humanities instruction while the other targets science, technology, engineering, and mathematics. Three teachers rotate students through learning stations, offering targeted instruction, support for independent work, and facilitation of Socratic discussion and project-based learning. Intrinsic's design adapted and reused 75 percent of the existing lumberyard structures, all originally bowstring truss buildings. It includes an open-air shed that is more than 40 feet tall — built in 1954 with solid wood columns cut from trees hand-selected in the Pacific Northwest — and two buildings from 1911 and 1928. The bowstring truss, an early 20th-century long-span structural support, provided the wide, column-free interior spaces that are perfect for Intrinsic’s needs. Each learning station in the pod includes easily identifiable elements to guide students. The “coastline,” for example, features adaptable-height desks ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/projects/intrinsic-school/"
+        }
       },
       {
-        "href": "/blog/2015-aia-young-architect-award/",
-        "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1068605"
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:News/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "News"
-              },
-              {
-                "class": "views",
-                "#text": "4,094"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Meet the Recipients of the AIA's 2015 Young Architect Award",
-            "span": {
-              "class": "body",
-              "#text": "The American Institute of Architects (AIA) is pleased to announce the 14 recipients of the 2015 Young Architect Award. AIA defines “young” in reference to years in practice rather than the age of the individual — the award can go to any AIA member who has been licensed for 10 years or less, regardless of age. The awardees are recognized for demonstrating exceptional leadership and making significant contributions to the profession in an early stage of their architectural career. Each of the 14 young architects will receive the award at the AIA 2015 National Convention and Design Exposition, set to take place in Atlanta from May 14–16 of this year. The award, now in its 22nd year, will be presented to:  Poydras Residential Tower Jose Alvarez, AIA, of Eskew+Dumez+Ripple A native of Caracas, Venezuela, Alvarez holds a Bachelor of Architecture from Universidad Jose Maria Vargas in Caracas and a Master of Architecture from Tulane University. He has called New Orleans home for the past 17 years, working for Eskew+Dumez+Ripple, where he is credited to some of the firm’s most iconic and challenging projects to date, including the New Orleans BioInnovation Center (NOBIC); the Shaw Center for ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/blog/2015-aia-young-architect-award/"
+        }
       },
       {
-        "href": "/projects/tree-house-4/",
-        "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1074675"
-          },
-          {
-            "class": "subimgs",
-            "div": [
-              {
-                "dataImgid": "1074684"
-              },
-              {
-                "dataImgid": "1074683"
-              },
-              {
-                "dataImgid": "1074689"
-              }
-            ]
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Featured Project/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Featured Project"
-              },
-              {
-                "class": "views",
-                "#text": "1,394"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Tree House",
-            "h5": {
-              "class": "byline",
-              "em": "by",
-              "#text": " MF Architecture"
-            },
-            "span": {
-              "class": "body",
-              "#text": "Matt Fajkus Architecture is an award-winning and licensed architecture office that welcomes residential and commercial projects, both small and large. We work with all budgets with competitive design fees. The design work of MF Architecture is based on the belief that each project is unique, as it should be driven by the client, the site, and functional requirements, rather than a singular, preconceived aesthetic. The firm aims for clear and simple solutions to complex problems by blending expertise as well as experimentation. As a young and energetic collaborative, the firm is simultaneously an academic think tank, directly connected to theoretical and technological research at the University of Texas at Austin School of Architecture, while also practicing as an office deeply focused on realizing exceptional buildings. MF Architecture possesses advanced knowledge of sustainable design principles, including energy-efficient strategies, passive daylighting, and intelligent material choices to promote healthy indoor air quality. The office believes that the current sustainability-driven era is the most all-encompassing movement since modernism, as it reaches to all scales of design including lifestyle choices. Thus, the firm is driven by the optimism that we live in an ideal time to affect positive change locally and globally, all accomplished by ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/projects/tree-house-4/"
+        }
       },
       {
-        "href": "/blog/pao-courtyard-house-plugin/",
-        "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1048450"
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Buildings/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Buildings"
-              },
-              {
-                "class": "views",
-                "#text": "5,503"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "These Modular Homes Enable Plug-and-Play Urban Preservation",
-            "span": {
-              "class": "body",
-              "#text": "The rapid urbanization and modernization of China is best seen in this image of Shanghai, where the agricultural and fishing village, across the river from the historic city center, has been transformed into one of the world's most advanced metropolises in just a couple of decades. The shock to the system that comes along with this kind of economic change can be hard for the built environment to handle — both in the way it facilitates growth and how it absorbs the new types of urbanism.  Image via weburbanist.com Given the country's aggressive approach to razing and redeveloping dilapidated, outmoded residential structures despite their cultural importance, architects and citizens alike are looking to rethink the blunt mandate of modernization. Beijing-based People's Architecture Office has devised a system that allows old homes to be updated without compromising their historical structures. This solution preserves the rich history of China while bringing living conditions up to contemporary standards. PAO deployed a working scale prototype of the modular system in Dashilar, a historic district, during Beijing Design Week last September.  Before.  After. The \"Courtyard House Plugin\" is made form prefab, composite panels ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/blog/pao-courtyard-house-plugin/"
+        }
       },
       {
-        "href": "/products/trespa-meteon-uni-colours/",
-        "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1074177"
-          },
-          {
-            "class": "subimgs",
-            "div": [
-              {
-                "dataImgid": "1074186"
-              },
-              {
-                "dataImgid": "1074187"
-              },
-              {
-                "dataImgid": "1074196"
-              }
-            ]
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Featured Product/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Featured Product"
-              },
-              {
-                "class": "views",
-                "#text": "7,140"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "TRESPA METEON | Uni Colors",
-            "h5": {
-              "class": "byline",
-              "em": "by",
-              "#text": " TRESPA"
-            },
-            "span": {
-              "class": "body",
-              "#text": "Trespa® Meteon® is a decorative high-pressure compact laminate (HPL) with an integral surface manufactured using Trespa’s unique in-house technology, Electron Beam Curing (EBC). The blend of up to 70% wood-based fibers and thermosetting resins, manufactured under high pressures and temperatures, yields a highly stable, dense panel with good strength-to-weight ratios. Trespa® Meteon® stands out in vertical exterior wall coverings such as façade cladding, balcony paneling, sunblinds, as well as horizontal exterior ceiling applications. Trespa® Meteon® panels are perfect for use in innovative and functional ventilated façade systems. Used on its own or as a highlight in combination with other materials, Trespa® Meteon® determines the look and underlines the qualities of a building. The unique properties of Trespa® Meteon® panels make them highly durable. That is why Trespa is offering a ten-year conditional warranty on its product. Trespa® Meteon® architectural panels are available in a wide choice of standard colors and effects. To create façades that are even more individual and expressive, Trespa® Meteon® panels can be custom-made in special project colors. The entire Trespa® Meteon® product range — in all types, sizes, thicknesses, finishes and colors — is available with PEFC™ or FSC™ certification upon request, in restricted quantities and ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/products/trespa-meteon-uni-colours/"
+        }
       },
       {
-        "href": "/blog/data-clay/",
-        "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1059706"
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:News/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "News"
-              },
-              {
-                "class": "views",
-                "#text": "5,573"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Are 3D-Printed Ceramics the Future of Architecture?",
-            "span": {
-              "class": "body",
-              "#text": "As design visualization software becomes more ubiquitous and easier to use, the novelty of digital form for the sake of digital form is wearing off. These exponentially evolving conception and fabrication techniques can now be applied to existing design problems that do not traditionally involve digital technologies bring a fresh perspective to an established craft. At San Francisco's Museum of Craft and Design, the exhibition Data Clay: Digital Strategies for Parsing the Earth looks at the ways in which leading researchers and practitioners are experimenting at the intersection of digital technology and ceramics. This range of diverse products and sculptural forms are based on design, art, and architectural sensibilities.    Curators Del Harrow and Joshua G. Stein explain that these new artisans are drawn to clay's unfamiliarity at a larger scale and its unique material properties that make it more difficult to predict, including slump and shrinkage. While it is not as easy to work with as more stable materials such as concrete, engineered wood, and steel, the clay enables has more potential for experimentation when it comes to translating the digital to the physical.  ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/blog/data-clay/"
+        }
       },
       {
-        "href": "/blog/the-future-of-visualization/",
-        "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1069628"
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Practice/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Practice"
-              },
-              {
-                "class": "views",
-                "#text": "10,407"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "5 Realistic Rendering Styles and the Future of Visualization",
-            "span": {
-              "class": "body",
-              "#text": "Architectural Visualization. Its a harsh mistress. We are seduced by it, but sometimes it leads us astray. While modeling, rendering, and post-production capabilities are always increasing, the realism that we see in renderings is not always proportionate to our ability to produce it. In other words, some renderings don't even look try to look real anymore; they are often dramatized until they look like science fiction or a romantic painting. There are examples of realistic visualization, however. One of the best is the recent Unreal Paris, a tour of a digitally modeled Parisian apartment. The video was produced with Epic Games' Unreal Engine 4, their latest game-producing software. The hyper-realistic video weaves through a very nice looking apartment. The towels in the bathroom are the only thing that really gives it away.  IKEA uses 3d modeling to produce their catalogs, so that they don't have to style every single shot in real life. They can re-arrange and swap colors or patterns more easily, plus it saves them on cost. Their realistic images look just like the real thing when it arrives at your house, er, after you assemble it! Ironically, IKEA is proud of their print ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/blog/the-future-of-visualization/"
+        }
       },
       {
-        "href": "/projects/cloverdale-749/",
-        "class": "ed-block third mb1 browse-item has-txt   has-subimgs layout-project js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1073333"
-          },
-          {
-            "class": "subimgs",
-            "div": [
-              {
-                "dataImgid": "1073346"
-              },
-              {
-                "dataImgid": "1073337"
-              },
-              {
-                "dataImgid": "1073341"
-              }
-            ]
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:Project of the Day/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "Project of the Day"
-              },
-              {
-                "class": "views",
-                "#text": "9,087"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Cloverdale749",
-            "h5": {
-              "class": "byline",
-              "em": "by",
-              "#text": " Lorcan O'Herlihy Architects (LOHA)"
-            },
-            "span": {
-              "class": "body",
-              "#text": "Cloverdale749 is located around the block from the historically significant Miracle Mile hub comprising the Los Angeles County Museum of Art, the A+D Architecture and Design Museum, and other noteworthy cultural destinations. Adhering to a strategy to maximize land use and capitalize on zoning, the building’s 10,500 square feet push against floor-area and density limitations determined by the lot’s size and location. In essence, this project is a volume that cannot expand further. Cloverdale749’s footprint and volume were determined by zoning and development needs, yet within these parameters, LOHA explored the threshold between the unit and the street, establishing a veil of transformable layers that promotes a hybridized relationship between private and public zones. The project’s façade is a study in juxtaposing simplicity with complexity, celebrating the structure’s volume with a choreographed display of permeable layers. The building envelope introduces a visual fragmentation that allows for varied experiences of privacy along the edges of each unit. A blurring of interior and exterior spaces is integral to the design and, dependent on viewing and lighting angles, the building’s sheathing reveals and conceals patios. Circulation is pushed to the exterior, eliminating the need for climate-controlled inner hallways. Private open balconies front the ..."
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/projects/cloverdale-749/"
+        }
       },
       {
-        "href": "/blog/manhattan-project-national-park/",
-        "class": "ed-block third mb1 browse-item has-txt    layout-normal js-use-pushstate",
-        "div": [
-          {
-            "dataImgid": "1073705"
-          },
-          {
-            "class": "meta clear",
-            "span": [
-              {
-                "href": "/feed/q/post_categories:News/",
-                "class": "eyebrow js-use-pushstate",
-                "#text": "News"
-              },
-              {
-                "class": "views",
-                "#text": "598"
-              },
-              {
-                "class": "timestamp",
-                "#text": "1 day ago"
-              }
-            ]
-          },
-          {
-            "class": "txt",
-            "h4": "Designing a Manhattan Project National Park",
-            "span": {
-              "class": "body",
-              "#text": "What role will architecture and landscapes play in the newly authorized park?"
-            }
-          }
-        ]
+        "edBlock": {
+          "href": "/blog/manhattan-project-national-park/"
+        }
       }
     ]
   }
